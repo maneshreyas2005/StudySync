@@ -43,4 +43,4 @@ Create a pull request.
 ✉️ Contact
 For inquiries, reach out at shreyasmane100@gmail.com.
 
-Feel free to replace placeholders like your-username and your-email@example.com with your details. Let me know if you need further adjustments!
+Feel free to replace placeholders like your-username and shreyasmane100@gmail.com with your details. Let me know if you need further adjustments!
