@@ -11,17 +11,20 @@ Industry Partnerships: Collaborations with reputable companies and institutions.
 Innovative Technologies: Augmented and virtual reality for immersive learning.
 Responsive Support: Exceptional assistance for both students and educators.
 Analytics and Insights: Detailed performance tracking for better outcomes.
+
 🖥️ Tech Stack
 HTML5 & CSS3: Modern and responsive front-end design.
 JavaScript: Interactive and dynamic web elements.
+
 🗂️ Project Structure
 index.html: Main HTML structure of the webpage.
 style.css: Custom styles for the web page.
+
 🚀 How to Run Locally
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/studysync.git
+git clone https://github.com/maneshreyas2005/studysync.git
 cd studysync
 Open index.html in any browser to view the webpage.
 📸 Preview
